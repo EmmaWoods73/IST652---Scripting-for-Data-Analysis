@@ -9,3 +9,5 @@ obtained through the use of API's and RSS feeds in order to incorporate analysis
 Platforms used: Python (Jupyter notebook and Google Colab for collaboration)
 
 Key skills: Data acquisition, data munging, MongoDB, Pandas, NLTK for NLP techniques for unstructured (text) data
+
+TO ACCESS THIS PROJECT: 1) "Emma_Woods_Final_Project.pdf" is the final project report. 2) "Emma_Woods_Final_Project.ppt" is the final project presentation. 3) "Emma_Woods_Final_Project.ipyb" is the Python script in Jupyter Notebook.

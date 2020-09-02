@@ -1,5 +1,5 @@
 # IST652---Scripting-for-Data-Analysis
-Developer Profiles and Job Market Analysis
+DEVELOPER PROFILES AND JOB MARKET ANALYSIS
 
 This team-based project used Python scripts to access, amass and analyze data from multiple data sources in order to profile the characteristics of current software developers. Current circumstances related to compensation, job skills, preferences and other factors were explored, in addition to the job market for software developers and how this relates to specific job requirements and preferences of the profiles analyzed within the project.
 
@@ -10,4 +10,7 @@ Platforms used: Python (Jupyter notebook and Google Colab for collaboration)
 
 Key skills: Data acquisition, data munging, MongoDB, Pandas, NLTK for NLP techniques for unstructured (text) data
 
-TO ACCESS THIS PROJECT: 1) "Emma_Woods_Final_Project.docx" is the final project report. 2) "Emma_Woods_Final_Project.pptx" is the final project presentation. 3) "Emma_Woods_Final_Project.ipynb" is the Python script in Jupyter Notebook.
+TO ACCESS THIS PROJECT 
+1) "Emma_Woods_Final_Project.docx" is the final project report 
+2) "Emma_Woods_Final_Project.pptx" is the final project presentation 
+3) "Emma_Woods_Final_Project.ipynb" is the Python script in Jupyter Notebook
